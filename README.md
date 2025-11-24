@@ -17,6 +17,16 @@
 - 🎧 **沉浸式声光**：包含真实的擦火柴音效、天使光圈与流光文字提示。
 - 🎨 **完全自定义**：支持彩虹流光、暗夜枪灰等多种配色。
 
+## 📸 效果演示 (Showcase)
+
+<div align="center">
+  <img src="docs/1.png" width="100%" alt="展示图1" />
+  <br/><br/>
+  <img src="docs/2.png" width="100%" alt="展示图2" />
+  <br/><br/>
+  <img src="docs/3.png" width="100%" alt="展示图3" />
+</div>
+
 ## 📥 如何安装 (How to Install)
 
 ### 方式一：Edge 商店安装 (推荐)
